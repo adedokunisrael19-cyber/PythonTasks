@@ -13,5 +13,5 @@ if num <=5:
 num =5
 if num <=5:
     print (num,"\t" ,(num**2),"\t" ,(num**3)) 
-
+ 
 
