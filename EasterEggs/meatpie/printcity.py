@@ -1,0 +1,2 @@
+city = "Saki"
+print( city)

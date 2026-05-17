@@ -1,0 +1,5 @@
+amount = int(input("enter the amount of the annual savings:"))
+annualinterest= int(input("enter the amount of the annual interest"))
+number of years = int(input("enter the amount of the number of yers "))
+futureinvest= amount * (1+(annualrate/12) ** number of years))
+print (futureinvest)                                                                 
